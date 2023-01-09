@@ -85,3 +85,97 @@
 
     text-align: center;
 }
+/*fim sobre paseme*/
+
+/*topicos*/
+.grupo_topicos{
+    display: flex;
+    flex-direction: column;
+
+    margin: auto;
+    margin-top: 8vw;
+}
+
+.grupo_topicos .primeira_linha{
+    display: flex;
+    flex-direction: row;
+
+    margin: auto;
+}
+
+.primeira_linha .card_modern{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    background: #ECEAEA;
+    
+    margin-right: 5vw;
+
+    width: 25vw;
+    height: 60vh;
+
+    box-shadow: 3px 3px 8px#bfbebe;
+}
+
+.card_modern .icone img{
+    width: 80px;
+    height: 80px;
+}
+
+.card_modern h2{
+    font-size: 42px;
+    font-weight: 600;
+
+    color: #222222;
+}
+
+.card_modern div{
+    font-size: 20px;
+    color: #444444;
+
+    text-align: center;
+
+    margin-top: 5vw;
+}
+/*fim card moderno*/
+
+/*card inovador*/
+.primeira_linha .card_inovador{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    background: #ECEAEA;
+    margin-left: 5vw;
+
+    width: 25vw;
+    height: 60vh;
+
+    box-shadow: 3px 3px 8px#bfbebe;
+}
+
+.card_inovador .icone img{
+    width: 80px;
+    height: 80px;
+}
+
+.card_inovador h2{
+    font-size: 42px;
+    font-weight: 600;
+
+    color: #222222;
+}
+
+.card_inovador div{
+    font-size: 20px;
+    color: #444444;
+
+    text-align: center;
+
+    margin-top: 5vw;
+}
+/*fim card inovador*/
+
+
