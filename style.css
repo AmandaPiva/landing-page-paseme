@@ -315,16 +315,25 @@
 
 .submit button{
     margin-top: 5vw;
+    margin-bottom: 5vw;
+    padding-left: 2rem;
 
     display: flex;
     flex-direction: row;
 
     align-items: center;
     width: 11vw;
-    height: 6vh;
+    height: 7vh;
 
-    padding: 2rem;
-    font-size: 24px;
+    cursor: pointer;
+
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 600;
+
+    border-radius: 6px;
+
+    background:linear-gradient(90deg, #41C1E9 35%, #2696D4 100%);
 }
 
 .submit button img{
@@ -332,5 +341,7 @@
     height: 27px;
 
     margin-left: 20px;
+
+    filter: invert(100%);
 }
 
