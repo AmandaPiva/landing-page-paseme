@@ -178,4 +178,88 @@
 }
 /*fim card inovador*/
 
+/*card encante*/
+.grupo_topicos .segunda_linha{
+    display: flex;
+    flex-direction: row;
+
+    margin: auto;
+    margin-top: 8vw;
+}
+
+.segunda_linha .card_encante{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    background: #ECEAEA;
+    margin-right: 5vw;
+
+    width: 25vw;
+    height: 60vh;
+
+    box-shadow: 3px 3px 8px#bfbebe;
+}
+
+.card_encante .icone img{
+    width: 80px;
+    height: 80px;
+}
+
+.card_encante h2{
+    font-size: 42px;
+    font-weight: 600;
+
+    color: #222222;
+}
+
+.card_encante div{
+    font-size: 20px;
+    color: #444444;
+
+    text-align: center;
+
+    margin-top: 5vw;
+}
+/*fim card encante*/
+
+/*card economize*/
+
+.segunda_linha .card_economize{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    background: #ECEAEA;
+    margin-left: 5vw;
+
+    width: 25vw;
+    height: 60vh;
+
+    box-shadow: 3px 3px 8px#bfbebe;
+}
+
+.card_economize .icone img{
+    width: 80px;
+    height: 80px;
+}
+
+.card_economize h2{
+    font-size: 42px;
+    font-weight: 600;
+
+    color: #222222;
+}
+
+.card_economize div{
+    font-size: 20px;
+    color: #444444;
+
+    text-align: center;
+
+    margin-top: 5vw;
+}
+/*fim card economize*/
 
