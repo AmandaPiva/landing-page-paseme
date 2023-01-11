@@ -8,6 +8,17 @@
     font-family: "Poppins",sans-serif;
 }
 
+/*Logo paseme*/
+.logo img{
+    width: 25vw;
+    height: 25vh;
+
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+/*fim logo paseme*/
+
 /*imagem cabeçalho*/
 .imagem{
     margin-top: 8vw;
