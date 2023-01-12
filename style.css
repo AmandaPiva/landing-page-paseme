@@ -20,21 +20,20 @@
 
 /*imagem cabeçalho*/
 .imagem{
-    margin-top: 8vw;
+    margin-top: 5vw;
 }
 
 .imagem img{
     max-width: 100vw;
     max-height: 200vh;
 
-    -webkit-mask-image: linear-gradient(to bottom, transparent 5%, black 50%);
+    -webkit-mask-image: linear-gradient(180deg, transparent 1%, black 60%, transparent 70%);
 }
 /*fim imagem cabeçalho*/
 
 /*apresentação paseme*/
 .grupo_titulo{
     margin: auto;
-    margin-top: 8vw;
 
     display: flex;
     flex-direction: column;
