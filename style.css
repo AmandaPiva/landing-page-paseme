@@ -328,14 +328,14 @@
 .submit button{
     margin-top: 5vw;
     margin-bottom: 5vw;
-    padding-left: 2rem;
+    padding: 2rem;
 
     display: flex;
     flex-direction: row;
 
     align-items: center;
     text-align: center;
-    width: 11vw;
+    width: auto;
     height: 7vh;
 
     cursor: pointer;
@@ -350,8 +350,8 @@
 }
 
 .submit button img{
-    width: 27px;
-    height: 27px;
+    width: 35px;
+    height: 35px;
 
     margin-left: 30px;
 
