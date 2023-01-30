@@ -122,7 +122,7 @@
     background: #ECEAEA;
 
     width: 25vw;
-    height: 60vh;
+    height: auto;
 
     box-shadow: 3px 3px 8px#bfbebe;
 }
@@ -161,7 +161,7 @@
     margin-left: 5vw;
 
     width: 25vw;
-    height: 60vh;
+    height: auto;
 
     box-shadow: 3px 3px 8px#bfbebe;
 }
@@ -207,7 +207,7 @@
     background: #ECEAEA;
 
     width: 25vw;
-    height: 60vh;
+    height: 81vh;
 
     box-shadow: 3px 3px 8px#bfbebe;
 }
@@ -247,7 +247,7 @@
     margin-bottom: 8vw;
 
     width: 25vw;
-    height: 60vh;
+    height: auto;
 
     box-shadow: 3px 3px 8px#bfbebe;
 }
