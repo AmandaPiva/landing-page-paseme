@@ -21,11 +21,12 @@
 /*imagem cabeçalho*/
 .imagem{
     margin-top: 5vw;
+    margin: auto;
 }
 
 .imagem img{
-    max-width: 100vw;
-    max-height: 200vh;
+    width: 99vw;
+    min-height: 99vh;
 
     -webkit-mask-image: linear-gradient(180deg, transparent 1%, black 60%, transparent 70%);
 }
