@@ -147,7 +147,8 @@
     text-align: center;
     padding: 1rem;
 
-    margin-top: 5vw;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
 }
 /*fim card moderno*/
 
@@ -186,7 +187,8 @@
     text-align: center;
     padding: 1rem;
 
-    margin-top: 5vw;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
 }
 /*fim card inovador*/
 
@@ -197,6 +199,7 @@
 
     margin: auto;
     margin-top: 8vw;
+    margin-bottom:7vw ;
 }
 
 .segunda_linha .card_encante{
@@ -208,7 +211,7 @@
     background: #ECEAEA;
 
     width: 25vw;
-    height: 81vh;
+    height: auto;
 
     box-shadow: 3px 3px 8px#bfbebe;
 }
@@ -232,7 +235,8 @@
 
     text-align: center;
 
-    margin-top: 5vw;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
 }
 /*fim card encante*/
 
@@ -245,7 +249,6 @@
 
     background: #ECEAEA;
     margin-left: 5vw;
-    margin-bottom: 8vw;
 
     width: 25vw;
     height: auto;
@@ -272,7 +275,8 @@
 
     text-align: center;
 
-    margin-top: 5vw;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
 }
 /*fim card economize*/
 
